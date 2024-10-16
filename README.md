@@ -1,6 +1,6 @@
-# shopapp
+# resturantapp
+appresturant+singletone+animation+stream+deleteitems
 
-A new Flutter project.
 
 ## Getting Started
 
